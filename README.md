@@ -161,7 +161,7 @@ $ bundle exec rake db:migrate db:seed
 
 ### Routes
 
-Build out the following routes to handle the necessary CRUD actions:
+Build out the following routes to handle the necessary CRUD actions: 
 
 - `GET /messages`: returns an array of all messages as JSON, ordered by
   `created_at` in ascending order.
